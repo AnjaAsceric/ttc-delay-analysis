@@ -1,1 +1,62 @@
 # ttc-delay-analysis
+
+This project analyzes delay patterns within the Toronto Transit Commission (TTC) subway system.
+
+The analysis focuses on identifying relationships between delays and factors such as:
+- station location
+- subway lines
+- time of day
+- weather conditions
+
+The results show that delays are primarily concentrated along Line 1 and Line 2 and are more closely related to operational factors than external ones such as precipitation.
+
+---
+
+## My Contribution
+
+This project was completed as part of a group Business Intelligence assignment.
+
+My contribution focused on:
+- data cleaning and preparation
+- delay pattern analysis
+- Power BI visualization
+- station mapping
+- line-based analysis
+- hourly delay analysis
+- weather correlation analysis
+- solution recommendations
+
+---
+
+## Tools Used
+
+- Python
+- Excel
+- Power BI
+
+---
+
+## Files
+
+- `BI_Solution.pdf` — final analysis and recommendations
+- `viz.pbix` file — Power BI dashboard
+- ttc_project_data.xlsx — processed data and analysis
+- BI_Project.ipynb — data cleaning and preparation
+
+---
+
+## Key Insights
+
+- Most delays are concentrated on Line 1 and Line 2
+- Weather showed little correlation with delay volume
+- Unexpected delay peaks were observed around 10 PM and 11 PM
+- High-delay stations form clear geographic corridors along the TTC subway network
+
+---
+
+## Replicability
+
+This approach can be applied to other systems where operations depend on location and scheduling, such as:
+- airline scheduling
+- logistics and delivery services
+- public transportation systems
