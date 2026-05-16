@@ -35,7 +35,23 @@ My contribution focused on:
 - Power BI
 
 ---
+## Analysis Workflow
 
+### Python
+- cleaned and standardized raw TTC delay data
+- handled inconsistent line naming conventions
+- created derived variables for analysis
+- prepared datasets for visualization
+
+### Excel
+- performed aggregation and pivot-based analysis
+- analyzed hourly delay distributions
+- conducted precipitation and delay correlation analysis
+
+### Power BI
+- created geographic and temporal visualizations
+- mapped high-delay stations
+- analyzed delay concentration by line and time
 ## Files
 
 - `BI_Solution.pdf` — final analysis and recommendations
