@@ -54,7 +54,7 @@ My contribution focused on:
 - analyzed delay concentration by line and time
 ## Files
 
-- `BI_Solution.pdf` — final analysis and recommendations
+- 'TTC_Solution_Report.pdf` — final analysis and recommendations
 - `viz.pbix` file — Power BI dashboard
 - ttc_project_data.xlsx — processed data and analysis
 - BI_Project.ipynb — data cleaning and preparation
