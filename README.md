@@ -1,4 +1,4 @@
-# ttc-delay-analysis
+# TTC Delay Analysis
 
 This project analyzes delay patterns within the Toronto Transit Commission (TTC) subway system.
 
