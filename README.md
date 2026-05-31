@@ -1,6 +1,6 @@
 # TTC Delay Analysis
 
-This project analyzes delay patterns within the Toronto Transit Commission (TTC) subway system.
+This project analyses delay patterns within the Toronto Transit Commission (TTC) subway system.
 
 The analysis focuses on identifying relationships between delays and factors such as:
 - station location
@@ -45,13 +45,13 @@ My contribution focused on:
 
 ### Excel
 - performed aggregation and pivot-based analysis
-- analyzed hourly delay distributions
+- analysed hourly delay distributions
 - conducted precipitation and delay correlation analysis
 
 ### Power BI
 - created geographic and temporal visualizations
 - mapped high-delay stations
-- analyzed delay concentration by line and time
+- analysed delay concentration by line and time
 ## Files
 
 - 'TTC_Solution_Report.pdf` — final analysis and recommendations
